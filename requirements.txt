@@ -1,4 +1,6 @@
 pyrogram==1.4.16
+python-telegram-bot
+requests
 TgCrypto
 umongo
 dnspython
